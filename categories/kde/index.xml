@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kde on Atmosfera Geek</title>
+    <link>/categories/kde/</link>
+    <description>Recent content in Kde on Atmosfera Geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/kde/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kde 5.13 Novedades</title>
+      <link>/post/kde-5.13/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/kde-5.13/</guid>
+      <description>En Linux existen una amplia variedad de entornos de escritorio y uno de los mas populares dentro del ecosistema Linux es Kde, Kde es un entorno de escritorio elegante y con muchas innovaciones dentro del mismo, actualmente es uno de los escritorios mas completos en cuanto a funcionalidades con un desempeño razonable para el hardware actual, ofrece varias funciones propias que se han ido añadiendo a lo largo de su desarollo, y actualmente acaba de ser lanzada la version 5.</description>
+    </item>
+    
+  </channel>
+</rss>
