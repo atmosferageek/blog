@@ -28,25 +28,25 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/android/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmosferageek.github.io/blog/tags/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/aplicaciones/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmosferageek.github.io/blog/tags/aplicaciones/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/categories/aplicaciones/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,13 +70,13 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/kde/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/kde/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/tags/kde/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/kde/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -88,13 +88,13 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/linux/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/linux/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/tags/linux/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/linux/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -106,13 +106,13 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/particiones/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/particiones/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/tags/particiones/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/particiones/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
