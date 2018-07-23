@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atmosfera Geek</title>
-    <link>/tags/</link>
+    <link>https://atmosferageek.github.io/blog/tags/</link>
     <description>Recent content in Tags on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>/tags/android/</link>
+      <link>https://atmosferageek.github.io/blog/tags/android/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Another Test</title>
-      <link>/tags/another-test/</link>
+      <link>https://atmosferageek.github.io/blog/tags/another-test/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/another-test/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/another-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aplicaciones</title>
-      <link>/tags/aplicaciones/</link>
+      <link>https://atmosferageek.github.io/blog/tags/aplicaciones/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aplicaciones/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/aplicaciones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Escritorio</title>
-      <link>/tags/escritorio/</link>
+      <link>https://atmosferageek.github.io/blog/tags/escritorio/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/escritorio/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/escritorio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kde</title>
-      <link>/tags/kde/</link>
+      <link>https://atmosferageek.github.io/blog/tags/kde/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/kde/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/kde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>/tags/linux/</link>
+      <link>https://atmosferageek.github.io/blog/tags/linux/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Messages</title>
-      <link>/tags/messages/</link>
+      <link>https://atmosferageek.github.io/blog/tags/messages/</link>
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/messages/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/messages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particiones</title>
-      <link>/tags/particiones/</link>
+      <link>https://atmosferageek.github.io/blog/tags/particiones/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/particiones/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/particiones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Libre</title>
-      <link>/tags/software-libre/</link>
+      <link>https://atmosferageek.github.io/blog/tags/software-libre/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software-libre/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/software-libre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>/tags/test/</link>
+      <link>https://atmosferageek.github.io/blog/tags/test/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/test/</guid>
+      <guid>https://atmosferageek.github.io/blog/tags/test/</guid>
       <description></description>
     </item>
     

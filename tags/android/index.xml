@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Atmosfera Geek</title>
-    <link>/tags/android/</link>
+    <link>https://atmosferageek.github.io/blog/tags/android/</link>
     <description>Recent content in Android on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automatic&amp;Musicolet</title>
-      <link>/post/android/</link>
+      <link>https://atmosferageek.github.io/blog/post/android/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/android/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/android/</guid>
       <description>Hola que tal, hoy quiero compartir con ustedes dos aplicaciones que uso en Android habitualmente y que me resulta una combinacion muy practica para el dia a dia. Se trata de una herramienta de etiquetado de canciones, y de un reproductor de musica.
 Automatic tag editor Es un editor automatico de etiquetas de musica ID3 y caratulas. La aplicación soporta canciones en los siguientes formatos: MP3, OGG, FLAC, WMA y M4A.</description>
     </item>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Atmosfera Geek</title>
-    <link>/tags/linux/</link>
+    <link>https://atmosferageek.github.io/blog/tags/linux/</link>
     <description>Recent content in Linux on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Libre</title>
-      <link>/post/software-libre/</link>
+      <link>https://atmosferageek.github.io/blog/post/software-libre/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/software-libre/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/software-libre/</guid>
       <description>Alguna vez has tenido que usar algun programa que posiblemente no tienes instalado, y que solo lo utilizaras en una sola ocasion, lo comun seria buscar algun programa gratuito y utilizarlo, pero muchos de los programas gratuitos tienen ciertas limitaciones para hacer uso de los mismos, como puede ser el guardar archivos, el compartirlos ya que en ocasiones usan extensiones propias, el tener un cierto periodo de prueba solamente. El no saber si estara disponible en un futuro en su desarrollo.</description>
     </item>
     
     <item>
       <title>Particiones Basicas Linux</title>
-      <link>/post/particionado-basico-linux/</link>
+      <link>https://atmosferageek.github.io/blog/post/particionado-basico-linux/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/particionado-basico-linux/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/particionado-basico-linux/</guid>
       <description>Al momento de querer instalar alguna distribución Linux es necesario tener en cuenta como funciona el tema de las particiones y como las administra Linux, generalmente puedes instalar Linux sin ninguna complicacion usando un espacio en blanco dentro del disco duro, Linux se encargara de asignar por lo menos dos particiones automaticamente una llamada Raiz y otra conocida como Swap.
 La partición Raiz (/) Es una partición donde se instala todo el sistema de una distribución Linux en si, si solo creamos esa partición tendremos nuestro archivos de usuario y sistema en el mismo lugar, esto significa que si en algun momento queremos reinstalar el sistema o cambiar de distribución sin perder nuestros documentos seria un poco complicado ya que tendriamos que respaldar nuestros archivos de usuario en otra parte llegando a ser un poco tedioso el proceso.</description>
     </item>

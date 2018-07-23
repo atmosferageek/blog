@@ -3,169 +3,169 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/software-libre/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/software-libre/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/android/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/mensajes-android/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/mensajes-android/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/kde-5.13/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/kde-5.13/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/particionado-basico-linux/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/particionado-basico-linux/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/primer_post/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/primer_post/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/android/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/android/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/another-test/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/aplicaciones/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/aplicaciones/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/category-1/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/another-test/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/category-2/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/aplicaciones/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/categories/aplicaciones/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/categories/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/categories/category-1/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/escritorio/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/category-2/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/tags/escritorio/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/kde/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/kde/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/kde/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/kde/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/libertades/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/libertades/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/linux/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/linux/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/linux/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/linux/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/messages/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/messages/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/particiones/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/particiones/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/particiones/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/particiones/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/plasma/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/plasma/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://atmosferageek.github.io/blog/post/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/software-libre/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/software-libre/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/test/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/test/</loc>
     <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

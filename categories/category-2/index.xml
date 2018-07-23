@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category 2 on Atmosfera Geek</title>
-    <link>/categories/category-2/</link>
+    <link>https://atmosferageek.github.io/blog/categories/category-2/</link>
     <description>Recent content in Category 2 on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example article title</title>
-      <link>/post/primer_post/</link>
+      <link>https://atmosferageek.github.io/blog/post/primer_post/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/primer_post/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/primer_post/</guid>
       <description>Lorem ipsum Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit veritus placerat per. &amp;hellip; &amp;hellip;</description>
     </item>
     

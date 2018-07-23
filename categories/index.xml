@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Atmosfera Geek</title>
-    <link>/categories/</link>
+    <link>https://atmosferageek.github.io/blog/categories/</link>
     <description>Recent content in Categories on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>/categories/android/</link>
+      <link>https://atmosferageek.github.io/blog/categories/android/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/android/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aplicaciones</title>
-      <link>/categories/aplicaciones/</link>
+      <link>https://atmosferageek.github.io/blog/categories/aplicaciones/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/aplicaciones/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/aplicaciones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category 1</title>
-      <link>/categories/category-1/</link>
+      <link>https://atmosferageek.github.io/blog/categories/category-1/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/category-1/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/category-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category 2</title>
-      <link>/categories/category-2/</link>
+      <link>https://atmosferageek.github.io/blog/categories/category-2/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/category-2/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/category-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kde</title>
-      <link>/categories/kde/</link>
+      <link>https://atmosferageek.github.io/blog/categories/kde/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/kde/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/kde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Libertades</title>
-      <link>/categories/libertades/</link>
+      <link>https://atmosferageek.github.io/blog/categories/libertades/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/libertades/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/libertades/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>/categories/linux/</link>
+      <link>https://atmosferageek.github.io/blog/categories/linux/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/linux/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particiones</title>
-      <link>/categories/particiones/</link>
+      <link>https://atmosferageek.github.io/blog/categories/particiones/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/particiones/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/particiones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plasma</title>
-      <link>/categories/plasma/</link>
+      <link>https://atmosferageek.github.io/blog/categories/plasma/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/plasma/</guid>
+      <guid>https://atmosferageek.github.io/blog/categories/plasma/</guid>
       <description></description>
     </item>
     

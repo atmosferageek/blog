@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atmosfera Geek</title>
-    <link>/</link>
+    <link>https://atmosferageek.github.io/blog/</link>
     <description>Recent content on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Libre</title>
-      <link>/post/software-libre/</link>
+      <link>https://atmosferageek.github.io/blog/post/software-libre/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/software-libre/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/software-libre/</guid>
       <description>Alguna vez has tenido que usar algun programa que posiblemente no tienes instalado, y que solo lo utilizaras en una sola ocasion, lo comun seria buscar algun programa gratuito y utilizarlo, pero muchos de los programas gratuitos tienen ciertas limitaciones para hacer uso de los mismos, como puede ser el guardar archivos, el compartirlos ya que en ocasiones usan extensiones propias, el tener un cierto periodo de prueba solamente. El no saber si estara disponible en un futuro en su desarrollo.</description>
     </item>
     
     <item>
       <title>Automatic&amp;Musicolet</title>
-      <link>/post/android/</link>
+      <link>https://atmosferageek.github.io/blog/post/android/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/android/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/android/</guid>
       <description>Hola que tal, hoy quiero compartir con ustedes dos aplicaciones que uso en Android habitualmente y que me resulta una combinacion muy practica para el dia a dia. Se trata de una herramienta de etiquetado de canciones, y de un reproductor de musica.
 Automatic tag editor Es un editor automatico de etiquetas de musica ID3 y caratulas. La aplicación soporta canciones en los siguientes formatos: MP3, OGG, FLAC, WMA y M4A.</description>
     </item>
     
     <item>
       <title>Mensajes Android</title>
-      <link>/post/mensajes-android/</link>
+      <link>https://atmosferageek.github.io/blog/post/mensajes-android/</link>
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensajes-android/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/mensajes-android/</guid>
       <description>Google acaba de anunciar una nueva actualizacion para la aplicacion Mensajes en Android y es que ahora permite poder enviar mensajes directamente en el navegador una caracteristica que era esperada por los usuarios, actualmente trabajan con las operadoras para dar el salto a los textos RCS servicios de comunicacion enriquecida, Algunas de las caracteristicas que maneja la nueva version de Mensajes son las siguientes.
 Enviar y recibir mensajes desde la web Esta funcion permite enviar y recibir mensajes de texto desde la computadora.</description>
     </item>
     
     <item>
       <title>Kde 5.13 Novedades</title>
-      <link>/post/kde-5.13/</link>
+      <link>https://atmosferageek.github.io/blog/post/kde-5.13/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/kde-5.13/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/kde-5.13/</guid>
       <description>En Linux existen una amplia variedad de entornos de escritorio y uno de los mas populares dentro del ecosistema Linux es Kde, Kde es un entorno de escritorio elegante y con muchas innovaciones dentro del mismo, actualmente es uno de los escritorios mas completos en cuanto a funcionalidades con un desempeño razonable para el hardware actual, ofrece varias funciones propias que se han ido añadiendo a lo largo de su desarollo, y actualmente acaba de ser lanzada la version 5.</description>
     </item>
     
     <item>
       <title>Particiones Basicas Linux</title>
-      <link>/post/particionado-basico-linux/</link>
+      <link>https://atmosferageek.github.io/blog/post/particionado-basico-linux/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/particionado-basico-linux/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/particionado-basico-linux/</guid>
       <description>Al momento de querer instalar alguna distribución Linux es necesario tener en cuenta como funciona el tema de las particiones y como las administra Linux, generalmente puedes instalar Linux sin ninguna complicacion usando un espacio en blanco dentro del disco duro, Linux se encargara de asignar por lo menos dos particiones automaticamente una llamada Raiz y otra conocida como Swap.
 La partición Raiz (/) Es una partición donde se instala todo el sistema de una distribución Linux en si, si solo creamos esa partición tendremos nuestro archivos de usuario y sistema en el mismo lugar, esto significa que si en algun momento queremos reinstalar el sistema o cambiar de distribución sin perder nuestros documentos seria un poco complicado ya que tendriamos que respaldar nuestros archivos de usuario en otra parte llegando a ser un poco tedioso el proceso.</description>
     </item>
     
     <item>
       <title>Example article title</title>
-      <link>/post/primer_post/</link>
+      <link>https://atmosferageek.github.io/blog/post/primer_post/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/primer_post/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/primer_post/</guid>
       <description>Lorem ipsum Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit veritus placerat per. &amp;hellip; &amp;hellip;</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Messages on Atmosfera Geek</title>
-    <link>/tags/messages/</link>
+    <link>https://atmosferageek.github.io/blog/tags/messages/</link>
     <description>Recent content in Messages on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/messages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmosferageek.github.io/blog/tags/messages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mensajes Android</title>
-      <link>/post/mensajes-android/</link>
+      <link>https://atmosferageek.github.io/blog/post/mensajes-android/</link>
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/mensajes-android/</guid>
+      <guid>https://atmosferageek.github.io/blog/post/mensajes-android/</guid>
       <description>Google acaba de anunciar una nueva actualizacion para la aplicacion Mensajes en Android y es que ahora permite poder enviar mensajes directamente en el navegador una caracteristica que era esperada por los usuarios, actualmente trabajan con las operadoras para dar el salto a los textos RCS servicios de comunicacion enriquecida, Algunas de las caracteristicas que maneja la nueva version de Mensajes son las siguientes.
 Enviar y recibir mensajes desde la web Esta funcion permite enviar y recibir mensajes de texto desde la computadora.</description>
     </item>
