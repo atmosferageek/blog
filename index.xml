@@ -59,14 +59,5 @@ Enviar y recibir mensajes desde la web Esta funcion permite enviar y recibir men
 La partición Raiz (/) Es una partición donde se instala todo el sistema de una distribución Linux en si, si solo creamos esa partición tendremos nuestro archivos de usuario y sistema en el mismo lugar, esto significa que si en algun momento queremos reinstalar el sistema o cambiar de distribución sin perder nuestros documentos seria un poco complicado ya que tendriamos que respaldar nuestros archivos de usuario en otra parte llegando a ser un poco tedioso el proceso.</description>
     </item>
     
-    <item>
-      <title>Example article title</title>
-      <link>https://atmosferageek.github.io/blog/post/primer_post/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://atmosferageek.github.io/blog/post/primer_post/</guid>
-      <description>Lorem ipsum Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu, eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit veritus placerat per. &amp;hellip; &amp;hellip;</description>
-    </item>
-    
   </channel>
 </rss>

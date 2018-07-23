@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/post/primer_post/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmosferageek.github.io/blog/tags/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -41,12 +36,6 @@
   <url>
     <loc>https://atmosferageek.github.io/blog/categories/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmosferageek.github.io/blog/tags/another-test/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,18 +60,6 @@
   <url>
     <loc>https://atmosferageek.github.io/blog/categories/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmosferageek.github.io/blog/categories/category-1/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmosferageek.github.io/blog/categories/category-2/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,12 +138,6 @@
   <url>
     <loc>https://atmosferageek.github.io/blog/tags/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmosferageek.github.io/blog/tags/test/</loc>
-    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
