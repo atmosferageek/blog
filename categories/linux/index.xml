@@ -6,10 +6,21 @@
     <description>Recent content in Linux on Atmosfera Geek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://atmosferageek.github.io/blog/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Que necesitas saber antes de usar Linux</title>
+      <link>https://atmosferageek.github.io/blog/post/consejos-utiles-antes-de-iniciar-en-linux/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosferageek.github.io/blog/post/consejos-utiles-antes-de-iniciar-en-linux/</guid>
+      <description>¿Quieres saber algunas cosas basicas antes de iniciarte en Linux ?
+Si bien esta no es una guia definitiva te ayudara para poder tomar nota antes de iniciarte en el ecosistema Linux, algunas cosas que considero basicas que pueden ayudarte para iniciar en linux son las siguientes.
+Distribuciòn. Saber que distribuciòn usar, si bien la mayoria de distribuciones actualmente son faciles de utilizar hay algunas enfocadas a un publico especifico y su mantenimiento puede resultar complejo cuando recien llegas a linux.</description>
+    </item>
     
     <item>
       <title>Software Libre</title>
