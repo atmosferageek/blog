@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://atmosferageek.github.io/blog/post/discusion-de-uso-de-temas-en-gnome/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmosferageek.github.io/blog/post/consejos-utiles-antes-de-iniciar-en-linux/</loc>
     <lastmod>2018-07-25T00:00:00+00:00</lastmod>
   </url>
@@ -39,19 +44,13 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/android/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmosferageek.github.io/blog/tags/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/aplicaciones/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/android/</loc>
     <lastmod>2018-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -63,8 +62,14 @@
   </url>
   
   <url>
+    <loc>https://atmosferageek.github.io/blog/categories/aplicaciones/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atmosferageek.github.io/blog/</loc>
-    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,13 +86,25 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/kde/</loc>
-    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <loc>https://atmosferageek.github.io/blog/tags/gnome/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/categories/gnome/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmosferageek.github.io/blog/tags/kde/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/categories/kde/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -99,14 +116,14 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/linux/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/linux/</loc>
     <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/tags/linux/</loc>
-    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <loc>https://atmosferageek.github.io/blog/categories/linux/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,13 +134,13 @@
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/categories/particiones/</loc>
+    <loc>https://atmosferageek.github.io/blog/tags/particiones/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atmosferageek.github.io/blog/tags/particiones/</loc>
+    <loc>https://atmosferageek.github.io/blog/categories/particiones/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -136,7 +153,7 @@
   
   <url>
     <loc>https://atmosferageek.github.io/blog/post/</loc>
-    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,6 +166,12 @@
   <url>
     <loc>https://atmosferageek.github.io/blog/tags/</loc>
     <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmosferageek.github.io/blog/tags/themes/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

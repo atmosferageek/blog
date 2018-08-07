@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Themes on Atmosfera Geek</title>
+    <link>https://atmosferageek.github.io/blog/tags/themes/</link>
+    <description>Recent content in Themes on Atmosfera Geek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://atmosferageek.github.io/blog/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gnome y el uso de temas</title>
+      <link>https://atmosferageek.github.io/blog/post/discusion-de-uso-de-temas-en-gnome/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosferageek.github.io/blog/post/discusion-de-uso-de-temas-en-gnome/</guid>
+      <description>Gnome 3 No hay ninguna duda que el escritorio Gnome se encuentra en una fase de cambio continua y que con cada version hay cambios interesantes. Sin embargo hay algo que no ha cambiado mucho y eso es el tema Gnome Adwaita, este tema en si es algo que viene por defecto como kit de desarrollo dentro de Gnome, Si bien cada sabor dentro de las distribuciones Linux realiza un cierto toque al escritorio Gnome que ofrecen, muchos de los usuarios realizan modificaciones al tema por defecto, una de las razones mas importantes de el porque, es: Porque se puede hacer.</description>
+    </item>
+    
+  </channel>
+</rss>
